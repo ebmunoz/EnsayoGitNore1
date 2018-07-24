@@ -1,12 +1,12 @@
 # Eclipse
-.classpath/
-.project/
+.classpath
+.project
 .settings/
 *.txt
 
 # Maven
 log/
 target/
-mar/
+
 
 
