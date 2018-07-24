@@ -1,24 +1,9 @@
 # Eclipse
-.classpath
-.project
-.settings/
-
-# Intellij
-.idea/
-*.iml
-*.iws
-
-# Mac
-.DS_Store
+/.classpath/
+/.project/
+/.settings/
 
 # Maven
 /log/
 /target/
 
-# Gradle
-.gradle
-build/
-
-#Documentos
-*.docx
-/ensayo/
